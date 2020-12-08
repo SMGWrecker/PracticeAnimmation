@@ -15,6 +15,7 @@
 		CE2E4BF5257CF38300575923 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CE2E4BF3257CF38300575923 /* LaunchScreen.storyboard */; };
 		CE2E4BFE257D031100575923 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2E4BFD257D031100575923 /* SignInViewController.swift */; };
 		CE2E4C01257D077A00575923 /* CandyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2E4C00257D077A00575923 /* CandyViewController.swift */; };
+		CE2E4C04257F55EE00575923 /* ShowViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE2E4C03257F55EE00575923 /* ShowViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		CE2E4BF6257CF38300575923 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE2E4BFD257D031100575923 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 		CE2E4C00257D077A00575923 /* CandyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CandyViewController.swift; sourceTree = "<group>"; };
+		CE2E4C03257F55EE00575923 /* ShowViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShowViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				CE2E4BEA257CF37800575923 /* SceneDelegate.swift */,
 				CE2E4BEC257CF37800575923 /* ViewController.swift */,
 				CE2E4BEE257CF37800575923 /* Main.storyboard */,
+				CE2E4C03257F55EE00575923 /* ShowViewController.swift */,
 				CE2E4C00257D077A00575923 /* CandyViewController.swift */,
 				CE2E4BFD257D031100575923 /* SignInViewController.swift */,
 				CE2E4BF1257CF38300575923 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				CE2E4BED257CF37800575923 /* ViewController.swift in Sources */,
 				CE2E4BE9257CF37800575923 /* AppDelegate.swift in Sources */,
 				CE2E4BEB257CF37800575923 /* SceneDelegate.swift in Sources */,
+				CE2E4C04257F55EE00575923 /* ShowViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
